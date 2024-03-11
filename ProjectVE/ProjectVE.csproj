@@ -57,6 +57,7 @@
 
 	<ItemGroup>
 	  <None Remove="Resources\Images\Logo.png" />
+	  <None Remove="Resources\Images\logoicon.svg" />
 	  <None Remove="Resources\Images\pranchetaicon.png" />
 	</ItemGroup>
 
